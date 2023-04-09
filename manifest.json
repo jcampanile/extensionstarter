@@ -1,0 +1,12 @@
+{
+ "manifest_version": 3,
+ "name": "name",
+ "version": "0",
+ "description": "description",
+ "action": {
+  "default_popup": "popup/index.html"
+ },
+ "icons": {
+  "16": "icons/icon.png"
+}
+}
